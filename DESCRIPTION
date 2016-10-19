@@ -1,0 +1,8 @@
+Package: rcloud.rcap.style.bragi
+Title: Bragi Style for Rcloud RCAP
+Version: 1.0.0
+Authors@R: person("Gábor", "Csárdi", email = "gcsardi@mango-solutions.com",
+                  role = c("aut", "cre"))
+Description: Bragi Style for Rcloud RCAP
+License: MIT + file LICENSE
+Encoding: UTF-8
